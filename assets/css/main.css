@@ -1,0 +1,69 @@
+/* CABEÇALHO (TOPO) */
+.fundo-topo{
+    background-color: rgb(43, 39, 39);
+}
+
+.topo-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.nav-topo a{
+    color: rgb(231, 138, 16);
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 1.2em;
+}
+
+.nav-topo a:hover{
+    color: rgb(255, 187, 0);
+    text-decoration: none;
+}
+
+/* SLIDES */
+.slide1{
+    padding: 50px;
+    font-size: 2em;
+    background-color: rgb(255, 123, 0);
+    color: white;
+}
+
+.slide2{
+    padding: 50px;
+    font-size: 2em;
+    background-color: rgb(30, 129, 27);
+    color: white;
+}
+
+.slide3{
+    padding: 50px;
+    font-size: 2em;
+    background-color: rgb(36, 25, 180);
+    color: white;
+}
+
+/* RODAPÉ (FOOTER) */
+.fundo-footer{
+    background-color: rgb(43, 39, 39);
+    color: white;
+    font-weight: bold;
+}
+
+.link-email{
+    color: rgb(231, 138, 16);
+}
+
+.link-email:hover{
+    text-decoration: none;
+    color: rgb(255, 187, 0);
+}
+
+/* SEPARADOR */
+.separador{
+    margin-top: 30px;
+}
+
+/* BOTÕES */
+.btn-160{
+    width: 160px;
+}
